@@ -1,5 +1,5 @@
 public class Text03 {
-    public static void drawLegs(){
+    public static void drawLegs() {
         System.out.println("     ||     ||      ");
         System.out.println("     ||     ||      ");
         System.out.println("    (||)   (||)     ");
@@ -15,5 +15,6 @@ public class Text03 {
         System.out.println("  (             )  ");
         System.out.println("   (___________)   ");
 
+    drawLegs();
     }    
 }
