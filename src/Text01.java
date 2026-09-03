@@ -1,3 +1,5 @@
+// Prints an ASCII art of a cat
+
 public class Text01 {
     public static void main(String[] args) {
         System.out.println("   /\\         /\\   ");
@@ -10,3 +12,4 @@ public class Text01 {
         System.out.println("   (___________)   ");
     }    
 }
+
