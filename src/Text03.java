@@ -1,3 +1,5 @@
+// Prints out ASCII art of cat with legs
+
 public class Text03 {
     public static void drawLegs() {
         System.out.println("     ||     ||      ");
