@@ -1,4 +1,4 @@
-# Lab 1: "2-2 Excercises"
+# 2-2 Excercises
 
 ### Abstract
 
